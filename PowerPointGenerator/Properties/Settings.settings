@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PowerPointGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DestinationFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Template" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MBRRACE02.potx</Value>
+    </Setting>
+    <Setting Name="BaseSettingsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NameList" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">list.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
